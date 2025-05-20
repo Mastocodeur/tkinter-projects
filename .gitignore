@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.egg-info/
+*.egg
+*.whl
+*.log
+__MACOSX__
+*.DS_Store
+__MACOSX__/
+__MACOSX
+../__MACOSX/
+../__pycache__/
